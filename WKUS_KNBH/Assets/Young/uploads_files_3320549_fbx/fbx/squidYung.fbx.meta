@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 479634ae8671cc24ea7f675bec802e20
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Group001
+  - first:
+      1: 100002
+    second: squidGameDoll_01_bajuDanKaki
+  - first:
+      1: 100004
+    second: squidGameDoll_01_leher
+  - first:
+      1: 100006
+    second: squidGameDoll_01_rambut
+  - first:
+      1: 100008
+    second: squidGameDoll_01_tangan
+  - first:
+      1: 100010
+    second: squidGameDoll_02_kepala
+  - first:
+      1: 100012
+    second: squidGameDoll_02_mata
+  - first:
+      1: 100014
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Group001
+  - first:
+      4: 400002
+    second: squidGameDoll_01_bajuDanKaki
+  - first:
+      4: 400004
+    second: squidGameDoll_01_leher
+  - first:
+      4: 400006
+    second: squidGameDoll_01_rambut
+  - first:
+      4: 400008
+    second: squidGameDoll_01_tangan
+  - first:
+      4: 400010
+    second: squidGameDoll_02_kepala
+  - first:
+      4: 400012
+    second: squidGameDoll_02_mata
+  - first:
+      4: 400014
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: Material #26
+  - first:
+      21: 2100002
+    second: Material #27
+  - first:
+      23: 2300000
+    second: squidGameDoll_01_bajuDanKaki
+  - first:
+      23: 2300002
+    second: squidGameDoll_01_leher
+  - first:
+      23: 2300004
+    second: squidGameDoll_01_rambut
+  - first:
+      23: 2300006
+    second: squidGameDoll_01_tangan
+  - first:
+      23: 2300008
+    second: squidGameDoll_02_kepala
+  - first:
+      23: 2300010
+    second: squidGameDoll_02_mata
+  - first:
+      33: 3300000
+    second: squidGameDoll_01_bajuDanKaki
+  - first:
+      33: 3300002
+    second: squidGameDoll_01_leher
+  - first:
+      33: 3300004
+    second: squidGameDoll_01_rambut
+  - first:
+      33: 3300006
+    second: squidGameDoll_01_tangan
+  - first:
+      33: 3300008
+    second: squidGameDoll_02_kepala
+  - first:
+      33: 3300010
+    second: squidGameDoll_02_mata
+  - first:
+      43: 4300000
+    second: squidGameDoll_01_tangan
+  - first:
+      43: 4300002
+    second: squidGameDoll_01_leher
+  - first:
+      43: 4300004
+    second: squidGameDoll_01_bajuDanKaki
+  - first:
+      43: 4300006
+    second: squidGameDoll_01_rambut
+  - first:
+      43: 4300008
+    second: squidGameDoll_02_kepala
+  - first:
+      43: 4300010
+    second: squidGameDoll_02_mata
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: squidYung(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: squidGameDoll_01_tangan
+      parentName: squidYung(Clone)
+      position: {x: -0, y: 0.5915204, z: 0.11903716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    - name: squidGameDoll_01_leher
+      parentName: squidYung(Clone)
+      position: {x: -0, y: 0.5915204, z: 0.11903716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    - name: squidGameDoll_01_bajuDanKaki
+      parentName: squidYung(Clone)
+      position: {x: -0, y: 0.5915204, z: 0.11903716}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    - name: Group001
+      parentName: squidYung(Clone)
+      position: {x: -0.0000000060558314, y: 1.6087061, z: -0.027304906}
+      rotation: {x: -0.7071068, y: 8.659561e-17, z: 8.659561e-17, w: 0.7071068}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: squidGameDoll_01_rambut
+      parentName: Group001
+      position: {x: 0.000000006055832, y: -0.14634207, z: -1.0171858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    - name: squidGameDoll_02_kepala
+      parentName: Group001
+      position: {x: 0.000000006055832, y: -0.14634207, z: -1.0171858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    - name: squidGameDoll_02_mata
+      parentName: Group001
+      position: {x: 0.000000006055832, y: -0.14634207, z: -1.0171858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 4.8046694, y: 4.8046694, z: 4.8046694}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

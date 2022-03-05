@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Use/0. Trailer.unity
+    guid: 6ac74c6819d751648a14b43fc76d0d5f
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/1. ChoiceScene 1.unity
+    guid: 5750b08e66ac38f4ab76d4413ee1f100
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/2. Prime.unity
+    guid: 73205b72ee353ad4db833e4835cc9632
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/3. PrimeIn.unity
+    guid: 1b36cbb5ba53ee74aa0a84431094d02a
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/4.Auditorium.unity
+    guid: 98815cdb336490e4f890881ec7869209
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/5. Bridge_Lava.unity
+    guid: e1131ba9b7cf719408d970677e55f010
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/6. Flower.unity
+    guid: ae891296b1c47fd4a96130310b517d75
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/WaitingRoomScene/PrimeWR.unity
+    guid: 4ef8e710ff9da924c87571670ced083e
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/WaitingRoomScene/PrimeInWR.unity
+    guid: c94a18c4a9c949948878f95c3e6a50bb
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/WaitingRoomScene/AuditoriumWR.unity
+    guid: 42dba86d664eb634591a9b06487f6ecc
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/WaitingRoomScene/BridegWR.unity
+    guid: 545cf58f6abf73c44840d1936b013841
+  - enabled: 1
+    path: Assets/Scenes/Use/NewScene/WaitingRoomScene/FlowerWR.unity
+    guid: 92254042ed7058444860ec2aee0f9c7f
+  m_configObjects: {}
